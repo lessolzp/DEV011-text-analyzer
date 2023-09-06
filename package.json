@@ -32,7 +32,7 @@
     "jest": "^27.0.1",
     "jsdom": "^21.1.1",
     "opener": "^1.5.1",
-    "serve": "^13.0.2"
+    "serve": "^14.2.1"
   },
   "engines": {
     "node": ">=16.x"
@@ -41,5 +41,8 @@
     "createdAt": "2023-07-31T21:01:41.609Z",
     "version": "6.5.1",
     "commit": "6b34188e22b8e83f25d135e6ed3ffbe1501c6f4c"
+  },
+  "dependencies": {
+    "source-map-resolve": "^0.6.0"
   }
 }
