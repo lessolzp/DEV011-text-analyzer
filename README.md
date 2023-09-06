@@ -2,11 +2,11 @@
 
 ## Índice
 
-* [1. Descripción del proyecto][#1-Descripción del proyecto]
-* [2. Tecnologías utilizadas][#2-Tecnologías utilizadas]
-* [3. Funcionamiento][#3-Funcionamiento]
-* [4. ¿Cómo se utiliza?][#4-¿Cómo se utiliza?]
-* [5. Agradecimientos][#5-Agradecimientos]
+* [1. Descripción del proyecto]
+* [2. Tecnologías utilizadas]
+* [3. Funcionamiento]
+* [4. ¿Cómo se utiliza?]
+* [5. Agradecimientos]
 
 ***
 
@@ -58,7 +58,7 @@ El Analizador de Textos ofrece varias métricas útiles para cualquier texto ing
 
 ## 5. Agradecimientos
 
-Queremos agradecer a todos los que han contribuido al desarrollo y la mejora de esta herramienta. También agradecemos a la comunidad del bootcamp de programación que inspiró la creación de este proyecto.
+Queremos agradecer a todos los que han contribuido al desarrollo y la mejora de esta herramienta. También agradecemos a la comunidad del bootcamp Laboratoria que inspiró la creación de este proyecto.
 
 Esperamos que esta herramienta de análisis de textos te sea útil en tu trabajo y proyectos. Si tienes alguna pregunta o comentario, no dudes en ponerte en contacto con nosotros.
 
