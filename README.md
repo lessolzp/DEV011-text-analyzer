@@ -1,13 +1,5 @@
 # Analizador de texto
 
-## Índice
-
-* [1. Descripción del proyecto]
-* [2. Tecnologías utilizadas]
-* [3. Funcionamiento]
-* [4. ¿Cómo se utiliza?]
-* [5. Agradecimientos]
-
 ***
 
 ## 1. Descripción del proyecto
